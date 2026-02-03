@@ -10,6 +10,11 @@ obj/
 *.sln.docstates
 .vscode/
 
+# === Publicerings-/releasemappar ===
+publish/
+release/
+artifacts
+
 # === SQLite databaser ===
 *.db
 *.db-shm
